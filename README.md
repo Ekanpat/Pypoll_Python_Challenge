@@ -40,21 +40,21 @@ The table below visualizes the total votes per county and related percentage.
 
 - Largest County with the number of votes
 
-Denver was the largest county in terms of numer of votes with .....
+Denver was the largest county in terms of numer of votes with 306,055 voters.
 
-![image]()
+![image](Resources/Largest_County.png)
 
 - Number of votes and the percentage of the total votes per candidates.
 
 As provided below.
 
-![image]()
+![images](Resources/Votes-Candidates.png)
 
 - The winner and related vote count plus the percentage of the total votes.
 
-The winner was ...... with ....% of the total votes. The table below captures all the details.
+The winner was Diana Degette with 73.8% of the total votes. The table below captures all the details.
 
-![image]()
+![image](Resources/Winner_Candidate.png)
 
 
 

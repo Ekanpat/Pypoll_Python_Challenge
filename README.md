@@ -26,16 +26,16 @@ In this project, our final Python script will need to be able to deliver the fol
 
 Below are the results of the audit detailed with related graphics.
 
-- Total otes casted in the congressional election.
+- Total votes casted in the congressional election.
 369,711 votes were casted in the three counties as mentionned in the table below.
 
-![image]()
+![image](Resources/Total_Vote.png)
 
 - Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   
 The table below visualizes the total votes per county and related percentage.
 
-![image]()
+![image](Resources/County_votes.png)
 
 
 - Largest County with the number of votes
